@@ -4,7 +4,7 @@
 #include <windows.h>
 #include <time.h>
 #include <fstream>
-#inlcude <iostream>
+//#inlcude <iostream>
 using namespace std;
 //#include <openssl/aes.h>
 #define TIMES 100
